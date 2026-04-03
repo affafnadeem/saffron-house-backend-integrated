@@ -1,0 +1,47 @@
+{
+  "success": true,
+  "count": 7,
+  "products": [
+    {
+      "id": 1,
+      "name": "Royal Mandi",
+      "arabicName": "المندي"
+    },
+    {
+      "id": 2,
+      "name": "Chicken Mandi",
+      "arabicName": "مندي"
+    },
+    {
+      "id": 3,
+      "name": "Chicken Kabsa",
+      "arabicName": "كابسة"
+    },
+    {
+      "id": 4,
+      "name": "Lamb Mandi",
+      "arabicName": "مندي"
+    },
+    {
+      "id": 5,
+      "name": "Chicken Kabsa",
+      "arabicName": "كابسة"
+    },
+    {
+      "id": 6,
+      "name": "Royal Mandi",
+      "arabicName": "المندي"
+    },
+    {
+      "id": 7,
+      "name": "Lamb Mandi",
+      "arabicName": "مندي"
+    }
+  ],
+  "price": 89,
+  "category": {
+    "Mandi": {
+      "imageUrl": "https://images.pexels.com/photos/1279330/pexels-photo-1279330.jpeg?w=500"
+    }
+  }
+}
