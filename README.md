@@ -58,7 +58,6 @@ Saffron House is a full-stack restaurant food ordering system that allows custom
 
 ## 💻 Installation
 
-```bash
 # Install dependencies
 npm install
 
@@ -101,4 +100,6 @@ React Native mobile app
 Cart functionality
 
 
-<img width="200" height="200" alt="Untitled 1 (1)" src="https://github.com/user-attachments/assets/bea7012f-097f-456f-ae1f-a63736811d1f" />
+
+
+
